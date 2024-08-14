@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @CaiDuncan07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning General skills on picoCTF
+- 💞️ I’m looking to collaborate on absolutely anything
+- 📫 How to reach me... twitter.com/CaiDuncan1
+                        www.linkedin.com/in/cai-duncan-292894254
+                        https://www.youtube.com/@caiduncan6430
+                        
 
 <!---
 CaiDuncan07/CaiDuncan07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
