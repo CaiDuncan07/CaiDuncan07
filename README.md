@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaiDuncan07
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning General skills on picoCTF
+- 👀 I’m interested in Data Analysis and Machine Learning
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on absolutely anything
 - 📫 How to reach me... twitter.com/CaiDuncan1
                         www.linkedin.com/in/cai-duncan-292894254
